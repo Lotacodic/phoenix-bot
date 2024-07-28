@@ -12,8 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "@types/bn.js": "^5.1.2",
-    "@types/node": "^20.7.1",
-    "typescript": "^5.2.2"
+    "@types/node": "^20.14.13",
+    "typescript": "^5.5.4"
   },
   "dependencies": {
     "@ellipsis-labs/phoenix-sdk": "^2.0.2",
